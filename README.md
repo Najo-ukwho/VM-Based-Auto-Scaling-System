@@ -1,6 +1,6 @@
 # Cloud Management System Using libvirt: Autoscaling Demo
 
-**Group Number:** 6
+
 
 ## 1. Overview
 
